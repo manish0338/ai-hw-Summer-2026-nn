@@ -1,0 +1,15 @@
+{
+  "clean_cnn": 98.28,
+  "clean_svm": 87.07,
+  "fgsm8_cnn": 34.6,
+  "pgd8_cnn": 0.2,
+  "svm_clean_sub": 86.0,
+  "svm_transfer": 56.6,
+  "asr_all": 51.02,
+  "asr_stop": 36.91,
+  "asr_noeot_ideal": 80.42,
+  "asr_noeot": 38.46,
+  "clean_rob": 82.82,
+  "pgd8_rob": 51.3,
+  "asr_rob": 4.39
+}

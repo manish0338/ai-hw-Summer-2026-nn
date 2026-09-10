@@ -1,0 +1,4 @@
+model,clean acc %,FGSM 8/255 %,PGD 8/255 %,patch ASR %
+HOG + LinearSVM (classical),87.07,-,56.6 (transfer),-
+ResNet-18 (standard),98.28,34.6,0.2,51.02
+ResNet-18 (PGD adv-trained),82.82,-,51.3,4.39
